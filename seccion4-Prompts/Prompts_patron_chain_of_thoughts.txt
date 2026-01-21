@@ -1,0 +1,32 @@
+----- Prompt 1 -----
+
+Contexto:
+- La empresa vende principalmente productos de electrónica de consumo (tablets, teléfonos, auriculares).
+- Cuenta con datos de ventas diarias de los últimos 6 meses.
+- Almacena sus productos en un solo almacén centralizado.
+- Cada producto se agota cuando las ventas superan el stock disponible.
+- El objetivo es reducir los costos de almacenamiento sin causar roturas de stock.
+
+Tarea:
+Analiza las ventas de los últimos 6 meses para los productos más vendidos (teléfonos, auriculares, tablets) y, en base a esto, indica cuántas unidades de cada categoría deberíamos comprar para el próximo trimestre. Inventa los datos de venta.
+
+
+----- Prompt 2 -----
+
+Contexto:
+- La empresa vende principalmente productos de electrónica de consumo (tablets, teléfonos, auriculares).
+- Cuenta con datos de ventas diarias de los últimos 6 meses.
+- Almacena sus productos en un solo almacén centralizado.
+- Cada producto se agota cuando las ventas superan el stock disponible.
+- El objetivo es reducir los costos de almacenamiento sin causar roturas de stock.
+
+Tarea:
+Analiza las ventas de los últimos 6 meses para los productos más vendidos (teléfonos, auriculares, tablets) y, en base a esto, indica cuántas unidades de cada categoría deberíamos comprar para el próximo trimestre. Inventa los datos de venta. Aclara todo tu razonamiento paso a paso antes de dar la respuesta final.  
+
+Piensa en voz alta:
+1. Revisa las ventas diarias promedio de cada categoría y detecta picos o estacionalidades en los últimos 6 meses.
+2. Estima la variación esperada de cada categoría para el siguiente trimestre.
+3. Evalúa el stock de seguridad que se requiere para evitar quiebres de inventario.
+4. Integra la proyección de ventas y el stock de seguridad en un cálculo final.
+5. Indica cuántas unidades comprar y explica por qué.
+Luego, da la respuesta concreta.

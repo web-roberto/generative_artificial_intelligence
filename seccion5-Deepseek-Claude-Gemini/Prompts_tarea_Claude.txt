@@ -1,0 +1,162 @@
+----- Prompt 1 -----
+
+Eres un asistente experto en redacción profesional y generación de contenido persuasivo. Crea una carta de presentación profesional que integre estratégicamente mi CV y la descripción del puesto de Experto en IA Generativa y Prompt Engineer. Usa este framework:
+1. Introducción contextualizada: Vincula mi experiencia general en IA/desarrollo con los objetivos clave del puesto (ej: 'Desarrollar prompts para modelos avanzados alineados a objetivos de negocio').
+2. Alineación técnica específica: Destaca habilidades relevantes del CV (Python, APIs de IA, LangChain, fine-tuning) junto con los requisitos técnicos del puesto. Incluye métricas o logros cuantificables si aplican.
+3. Ejemplos de ingeniería de prompts: Menciona 2-3 técnicas del anuncio (Chain of Thought, RAG, few-shot learning) vinculadas a proyectos concretos de mi experiencia.
+4. Casos de integración multidisciplinar: Relaciona colaboraciones previas con equipos (devs, UX, marketing) con la necesidad de trabajar en equipo mencionada.
+5. Actualización continua: Conecta mi formación/certificaciones recientes en IA con el requisito de aprendizaje constante.
+6. Cierre diferenciador: Enfatiza cómo mi combinación única de expertise técnico + comprensión de negocio resuelve necesidades específicas de su vacante.
+
+Evita frases genéricas - prioriza verbos de acción y correlaciones directas CV/puesto. Formato: 3-4 párrafos concisos, tono profesional pero innovador. Usa esta estructura:
+
+=== ESTRUCTURA ===
+[Saludo personalizado]
+[Párrafo 1: Conexión estratégica experiencia-propuesta de valor]
+[Párrafo 2: Evidencia técnica con ejemplos aplicables al puesto]
+[Párrafo 3: Factor diferenciador + alineación cultural]
+[Cierre proactivo]
+=== FIN ESTRUCTURA ===
+
+Inputs:
+
+=== CV ===
+📌 CURRÍCULUM VITAE
+📍 Nombre: Alejandro Torres García
+📍 Email: alejandro.torres.ai@gmail.com
+📍 Teléfono: +34 600 123 456
+📍 Ubicación: Madrid, España
+📍 LinkedIn: linkedin.com/in/alejandro-torres-ai
+📍 GitHub/Portfolio: github.com/atorres-ai
+
+👨‍💻 PERFIL PROFESIONAL
+Especialista en IA Generativa y Prompt Engineering con más de 5 años de experiencia en el desarrollo, optimización y aplicación de modelos de lenguaje avanzados (LLMs). Apasionado por la inteligencia artificial y la automatización, con un enfoque en mejorar la interacción humano-IA a través de prompts efectivos y soluciones innovadoras.
+
+💼 EXPERIENCIA PROFESIONAL
+🔹 Prompt Engineer & AI Specialist
+📍 TechAI Solutions – Madrid, España (2022 - Actualidad)
+
+Diseñé y optimicé prompts avanzados para modelos como GPT-4, Claude y Gemini, mejorando la precisión y relevancia de respuestas en chatbots empresariales.
+Implementé técnicas de chain of thought, few-shot learning y fine-tuning para optimizar la generación de contenido automatizado.
+Integré APIs de OpenAI y LangChain en herramientas internas de la empresa, reduciendo el tiempo de respuesta en un 30%.
+Desarrollé y documenté estrategias de prompt engineering para equipos de marketing, soporte y desarrollo.
+🔹 Desarrollador NLP & IA Generativa
+📍 InnovAI Tech – Barcelona, España (2019 - 2022)
+
+Creé chatbots inteligentes para atención al cliente con IA generativa y bases de datos vectoriales (FAISS).
+Diseñé prompts estratégicos para mejorar la comprensión del lenguaje en modelos LLaMA y Mistral AI.
+Implementé Retrieval-Augmented Generation (RAG) en sistemas de búsqueda interna empresarial.
+Trabajé con Python, LangChain, Hugging Face y OpenAI API para optimizar respuestas automáticas en asistentes virtuales.
+🎓 EDUCACIÓN
+🎓 Máster en Inteligencia Artificial y Big Data 📍 Universidad Politécnica de Madrid (2018 - 2019)
+
+🎓 Grado en Ingeniería Informática 📍 Universidad de Barcelona (2014 - 2018)
+
+🛠️ HABILIDADES
+✅ IA Generativa & Prompt Engineering (GPT-4, Claude, Mistral, LLaMA)
+✅ Procesamiento de Lenguaje Natural (NLP)
+✅ Desarrollo con APIs de IA (OpenAI, Hugging Face, LangChain)
+✅ Optimización de modelos de IA (Fine-tuning, embeddings, RAG)
+✅ Bases de datos vectoriales (FAISS, Pinecone)
+✅ Automatización con IA en flujos de trabajo empresariales
+✅ Python, TensorFlow, PyTorch, FastAPI
+
+🚀 PROYECTOS DESTACADOS
+🔹 Optimización de Chatbot con IA Generativa: Diseñé un sistema de prompts dinámicos para mejorar la precisión de respuestas en un chatbot financiero, reduciendo en un 40% las consultas sin resolver.
+
+🔹 Automatización de Creación de Contenido con IA: Desarrollé una herramienta basada en GPT-4 para generación de artículos optimizados para SEO, reduciendo en un 50% el tiempo de producción de contenido.
+
+🔹 Implementación de RAG en Atención al Cliente: Integramos modelos de IA con bases de datos vectoriales para proporcionar respuestas más precisas basadas en documentos internos.
+
+🌍 IDIOMAS
+🔹 Español (Nativo)
+🔹 Inglés (Avanzado - C1)
+
+📜 CERTIFICACIONES & CURSOS
+✔️ Curso Completo de IA Generativa: ChatGPT, Midjourney y más – Impartido por roberto Hernández Ramos en Udemy
+✔️ Machine Learning y Data Science: Curso Completo con Python – Impartido por roberto Hernández Ramos en Udemy
+✔️ Inteligencia Artificial y Deep Learning desde cero en Python – Impartido por roberto Hernández Ramos en Udemy
+✔️ Programación en Python: Aprende Python desde Cero – Impartido por roberto Hernández Ramos en Udemy
+✔️ Curso de Ciberseguridad y Privacidad Online: VPN, Proxy, TOR – Impartido por roberto Hernández Ramos en Udemy
+=== FIN CV ===
+
+=== DESCRIPCION DEL PUESTO ===
+Descripción del puesto
+
+Buscamos un Experto en IA Generativa y Prompt Engineer con sólida experiencia en el diseño, optimización y desarrollo de soluciones basadas en inteligencia artificial generativa. Este profesional será responsable de crear, probar y perfeccionar prompts para modelos de lenguaje avanzados, garantizando resultados eficientes, precisos y alineados con los objetivos de negocio. Además, colaborará con equipos técnicos y creativos para integrar IA generativa en productos y procesos, maximizando su impacto en la organización.
+
+Responsabilidades
+
+Diseñar, desarrollar y optimizar prompts avanzados para modelos de IA generativa como OpenAI GPT, DeepSeek, Claude, Gemini, entre otros.
+
+Comprender el comportamiento de los modelos de lenguaje y ajustar prompts para obtener respuestas más precisas y útiles.
+
+Experimentar con técnicas de ingeniería de prompts, incluyendo encadenamiento de pensamiento (Chain of Thought), few-shot learning y zero-shot learning.
+
+Implementar estrategias para la integración de IA generativa en productos digitales, flujos de trabajo y automatización empresarial.
+
+Colaborar con equipos de desarrollo, UX/UI y marketing para personalizar interacciones basadas en IA.
+
+Evaluar el desempeño de los modelos de IA generativa y ajustar los prompts para mejorar métricas clave como coherencia, precisión y relevancia.
+
+Investigar y probar nuevas metodologías en fine-tuning y adaptación de modelos a necesidades específicas.
+
+Asegurar el cumplimiento de normativas éticas y de seguridad en el uso de IA generativa.
+
+Generar documentación y guías sobre buenas prácticas en ingeniería de prompts para el equipo.
+
+Requisitos
+
+Habilidades Técnicas:
+
+Experiencia con modelos de lenguaje avanzados (LLMs) y herramientas de IA generativa.
+
+Conocimiento profundo en ingeniería de prompts, ajuste fino (fine-tuning) y personalización de modelos de IA.
+
+Manejo de APIs de IA (OpenAI, Anthropic, Google AI, etc.) e integración en aplicaciones y flujos de trabajo.
+
+Programación en Python y uso de bibliotecas como LangChain, Transformers, OpenAI SDK.
+
+Familiaridad con conceptos de procesamiento de lenguaje natural (NLP) y aprendizaje automático (ML).
+
+Experiencia con herramientas de vectorización y embeddings.
+
+Habilidades Blandas:
+
+Capacidad analítica y pensamiento lógico para optimizar prompts y mejorar la interacción con IA.
+
+Creatividad y experimentación en la generación de prompts efectivos.
+
+Trabajo en equipo y comunicación con perfiles técnicos y no técnicos.
+
+Mentalidad de aprendizaje continuo y actualización en tendencias de IA.
+
+Plus (Deseable pero no obligatorio)
+
+Experiencia con RAG (Retrieval-Augmented Generation) para mejorar la precisión de modelos de IA.
+
+Conocimientos en herramientas de No-Code/Low-Code para integrar IA en procesos empresariales.
+
+Experiencia en desarrollo de asistentes virtuales y chatbots avanzados.
+
+Conocimiento en modelos de código abierto como LLaMA, DeepSeek, Falcon.
+
+Experiencia en fine-tuning de modelos con frameworks como LoRA o PEFT.
+
+Condiciones y Beneficios
+
+Modalidad: Remoto o híbrido según ubicación.
+
+Horario: Flexible, orientado a resultados.
+
+Salario: Competitivo y acorde a experiencia.
+
+Oportunidad de trabajar en proyectos innovadores con tecnología de vanguardia.
+
+Acceso a formación continua en IA generativa y aprendizaje automático.
+=== FIN DESCRIPCION DEL PUESTO ===
+
+
+
+
+

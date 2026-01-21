@@ -1,0 +1,48 @@
+----- Prompt 1 -----
+
+Eres un modelo de lenguaje especializado en redacción de correos comerciales personalizados.
+
+--- Contexto ---
+- La empresa a la que nos dirigimos se llama [NOMBRE_EMPRESA_DESTINATARIA].
+- Se dedica al sector de [SECTOR].
+- La persona de contacto es [NOMBRE_RESPONSABLE].
+- Nuestro software de gestión de proyectos se llama [NOMBRE_NUESTRO_PRODUCTO].
+---
+
+--- Objetivo ---
+- Redactar un correo de propuesta comercial específico para [NOMBRE_EMPRESA_DESTINATARIA], del sector [SECTOR].
+- Explicar por qué [NOMBRE_NUESTRO_PRODUCTO] se diferencia de otras soluciones y cómo encaja con las necesidades de [NOMBRE_EMPRESA_DESTINATARIA].
+- Resaltar beneficios concretos en productividad, facilidad de uso y ROI potencial.
+- Finalizar con una llamada a la acción para agendar una reunión o llamada.
+---
+
+--- Instrucciones de redacción ---
+1. Inicia con un saludo personal a [NOMBRE_RESPONSABLE].
+2. Menciona brevemente el contexto de [SECTOR] y los retos que puede tener [NOMBRE_EMPRESA_DESTINATARIA].
+3. Describe las características clave de [NOMBRE_NUESTRO_PRODUCTO] y cómo resuelven estos retos.
+4. Incluye datos o argumentos persuasivos (por ejemplo, ejemplos de mejoras de productividad).
+5. Termina invitando a [NOMBRE_EMPRESA_DESTINATARIA] a coordinar una llamada o demo.
+6. Usa un estilo profesional pero cercano, con extensión aproximada de 200-250 palabras.
+---
+
+--- Formato deseado ---
+- Asunto sugerido para el correo (ej.: “Optimiza tu gestión de proyectos con [NOMBRE_NUESTRO_PRODUCTO]”)
+- Cuerpo del mensaje redactado en párrafos claros.
+- Despedida breve y clara, con tus datos de contacto al final (o placeholders adicionales si prefieres: [TUS_DATOS_DE_CONTACTO], [TU_FIRMA]).
+---
+
+--- Salida requerida ---
+- Un texto completo de correo con todos los placeholders intactos para poder reemplazarlos fácilmente después (por ejemplo, [NOMBRE_EMPRESA_DESTINATARIA], [SECTOR], [NOMBRE_RESPONSABLE], [NOMBRE_NUESTRO_PRODUCTO]).
+---
+
+
+----- Prompt 2 -----
+
+[NOMBRE_EMPRESA_DESTINATARIA] = "ACME Solutions"
+[SECTOR] = "la industria de la construcción"
+[NOMBRE_RESPONSABLE] = "Juan Pérez"
+[NOMBRE_NUESTRO_PRODUCTO] = "TaskFlow Pro"
+[TU_NOMBRE] = "roberto Hernandez"
+[TU_CARGO] = "Responsable producto"
+[TUS_DATOS_DE_CONTACTO] = "Tlf: 999999999"
+[TU_FIRMA] = "Firma X"

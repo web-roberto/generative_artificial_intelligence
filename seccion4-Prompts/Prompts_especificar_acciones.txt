@@ -1,0 +1,18 @@
+----- Prompt 1 -----
+
+Necesito que me ayudes a diseñar un plan de lanzamiento para un nuevo producto de software. Queremos lanzarlo el próximo mes y necesitamos ideas de marketing, canales de difusión y métricas de éxito. Adelante.
+
+
+----- Prompt 2 -----
+
+Necesito que me ayudes a diseñar un plan de lanzamiento para un nuevo producto de software. Queremos lanzarlo el próximo mes y necesitamos ideas de marketing, canales de difusión y métricas de éxito. Para ello, sigue cuidadosamente estos pasos (piensa y responde con detalle en cada uno antes de pasar al siguiente):
+
+1. Objetivos: Describe detalladamente los objetivos SMART (específicos, medibles, alcanzables, relevantes y con límite de tiempo) del lanzamiento.
+2. Público objetivo y segmentación: Identifica quiénes son las audiencias clave, sus necesidades y cómo se segmentarán.
+3. Estrategia de marketing: Proporciona un plan de marketing integral que incluya estrategia de contenido, redes sociales, marketing de influencers, publicidad en línea, etc. Explica el porqué de cada canal.
+4. Cronograma y presupuesto: Propón un calendario con las principales actividades y asigna un presupuesto estimado para cada una.
+5. Plan de ejecución paso a paso: Detalla las acciones que deben completarse, sus responsables y cualquier dependencia entre tareas.
+6. Métricas de éxito y KPIs: Explica cómo medirás el éxito en cada etapa (conversiones, instalaciones, ventas, etc.) y las herramientas que se emplearán.
+7. Riesgos y planes de contingencia: Menciona potenciales riesgos y describe un plan de contingencia para mitigarlos.
+
+Primero, reflexiona internamente sobre cada uno de estos pasos y, cuando tengas la respuesta clara, preséntala de manera organizada y coherente.

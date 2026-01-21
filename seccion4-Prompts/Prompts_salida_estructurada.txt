@@ -1,0 +1,52 @@
+----- Prompt 1 -----
+
+A partir de estos comentarios de clientes:
+
+"El producto es muy bueno, pero me gustaría más variedad de colores."
+"No estoy satisfecho con la atención al cliente, tardan demasiado en responder."
+"La calidad del envío fue excelente, y el embalaje muy seguro."
+
+Haz un análisis de sentimiento y define la categoría a la que pertenece cada uno de los comentarios. Además, propón acciones que la empresa podría tomar para mejorar su servicio o productos.
+
+
+----- Prompt 2 -----
+
+A partir de estos comentarios de clientes:
+
+"El producto es muy bueno, pero me gustaría más variedad de colores."
+"No estoy satisfecho con la atención al cliente, tardan demasiado en responder."
+"La calidad del envío fue excelente, y el embalaje muy seguro."
+
+Haz un análisis de sentimiento y define la categoría a la que pertenece cada uno de los comentarios. Además, propón acciones que la empresa podría tomar para mejorar su servicio o productos.
+
+Formato de salida:
+
+{
+  "comentarios": [
+    {
+      "id": <número>,
+      "texto": "<texto del comentario>",
+      "sentimiento": "<positivo | negativo | neutro>",
+      "categoria": "<categoría>",
+      "acciones": "<texto con las recomendaciones>"
+    },
+    ...
+  ]
+}
+
+Asegúrate de no añadir texto adicional fuera del objeto JSON. Devuelve solo el JSON válido.
+
+
+----- Prompt 3 -----
+
+A partir de estos comentarios de clientes:
+
+"El producto es muy bueno, pero me gustaría más variedad de colores."
+"No estoy satisfecho con la atención al cliente, tardan demasiado en responder."
+"La calidad del envío fue excelente, y el embalaje muy seguro."
+
+Haz un análisis de sentimiento y define la categoría a la que pertenece cada uno de los comentarios. Además, propón acciones que la empresa podría tomar para mejorar su servicio o productos.
+
+Formato de salida: Fichero EXCEL
+
+Asegúrate de no añadir texto adicional fuera del fichero EXCEL. Devuelve solo el EXCEL válido.

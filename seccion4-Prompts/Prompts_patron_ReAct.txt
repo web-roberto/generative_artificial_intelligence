@@ -1,0 +1,45 @@
+----- Prompt 1 -----
+
+Tarea: Identifica si la siguiente alerta de seguridad es un verdadero positivo o un falso positivo: "Alerta de seguridad: Se ha identificado el acceso a una URL potencialmente maliciosa. La URL identificada es: https://udemy.com"
+
+Resuelve la tarea usando el siguiente formato de Razonamiento y Acción, de modo que muestres tus pasos de pensamiento (Thought) y las consultas (Action) necesarias:
+
+=== EJEMPLO DE FORMATO ===
+Tarea: Identifica si la siguiente alerta de seguridad es un verdadero positivo o un falso positivo: "Alerta de seguridad: Se ha identificado el acceso a una URL potencialmente maliciosa. La URL identificada es: https://clientes.empresa1.com"
+Razonamiento: Voy a comenzar evaluando la URL de la alerta para identificar posibles elementos sospechosos desde el punto de vista de la Ciberseguridad.
+Acción: Analizo la URL que aparece en la alerta.
+Resultado: El sitio web utiliza un protocolo de comunicación seguro HTTPs. El sitio web tiene un nombre de dominio. El nombre de dominio parece de una entidad fiable.
+Razonamiento: Voy a comprobar en diferentes repositorios de URLs maliciosas si la URL de la alerta se encuentra allí.
+Acción: Consulto https://www.urlvoid.com/scan/clientes.empresa1.com
+Resultado: URLVoid indica que la URL no es maliciosa
+Razonamiento: La URL no parece maliciosa. La alerta se corresponde con un falso positivo.
+=== FIN EJEMPLO DE FORMATO ===
+
+¡Ahora aplícalo a tu tarea!
+
+
+----- Prompt 2 -----
+
+Tarea: Identifica si la siguiente alerta de seguridad es un verdadero positivo o un falso positivo: "Alerta de seguridad: Se ha identificado el acceso a una URL potencialmente maliciosa. La URL identificada es: http://15.30.12.134/programa.exe"
+
+
+----- Prompt 3 -----
+
+Tienes un correo de un cliente que dice: 
+"Hola, me gustaría saber si mi suscripción al plan premium cubre el soporte para configuraciones avanzadas de nuestros servidores. Si es así, ¿me pueden dar un enlace con más detalles?"
+
+Resuelve la tarea usando el siguiente formato de Razonamiento y Acción, de modo que muestres tus pasos de pensamiento (Thought) y las consultas (Action) necesarias a la base interna. Finalmente, cierra con la respuesta (finish):
+
+=== EJEMPLO DE FORMATO ===
+[Thought] Primero leo el correo: "Hola, me gustaría saber si mi suscripción al plan premium cubre el soporte para configuraciones avanzadas de servidores..."
+[Thought] Necesito identificar el tipo de solicitud (soporte de plan premium) y buscar en la base interna detalles sobre coberturas premium y enlaces a documentación.
+[Action] buscarEnBaseInterna("Coberturas del plan premium")
+[Observation] "El plan premium incluye soporte técnico básico y avanzado, pero ciertos servicios de configuración requieren un suplemento."
+[Thought] Parece que algunas configuraciones avanzadas están cubiertas, pero necesito revisar si hay un suplemento o requisito específico.
+[Action] buscarEnBaseInterna("Lista de servicios avanzados cubiertos en plan premium")
+[Observation] "El plan premium cubre: configuración inicial, ajustes de rendimiento, y soporte por email 24/7..."
+[Thought] Con esta información, ya puedo dar una respuesta clara. 
+[Action] finish("Respuesta al cliente: ¡Hola! Gracias por contactarnos. Efectivamente, tu plan premium cubre configuraciones avanzadas...")
+=== FIN EJEMPLO DE FORMATO ===
+
+¡Ahora aplícalo al correo del cliente!

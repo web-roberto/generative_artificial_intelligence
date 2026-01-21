@@ -1,0 +1,69 @@
+----- Prompt 1 -----
+
+Por favor, redacta un correo invitando a mi compañera Ana a una reunión con el cliente XYZ para analizar el progreso del proyecto y definir las próximas acciones. Incluye la fecha y hora (jueves 16 de febrero a las 10:00 a. m.) y utiliza un tono profesional y breve.
+
+
+----- Prompt 2 -----
+
+Por favor, redacta un correo invitando a mi compañera Ana a una reunión con el cliente XYZ para analizar el progreso del proyecto y definir las próximas acciones. Incluye la fecha y hora (jueves 16 de febrero a las 10:00 a. m.) y utiliza un tono profesional y breve.
+
+A continuación tienes un ejemplo de cómo solemos redactar estos correos en nuestra empresa:
+
+--- EJEMPLO ---
+Asunto: Reunión de seguimiento
+
+Hola [Nombre],
+
+Espero que estés bien. Te escribo para invitarte a la próxima reunión de seguimiento, 
+que tendrá lugar el lunes 13 de febrero a las 9:00 a. m. en la sala de juntas 3. 
+En ella revisaremos los avances y definiremos las próximas acciones del proyecto.
+
+Por favor, confirma tu asistencia.
+
+¡Muchas gracias!
+
+Un saludo,
+[Tu nombre]
+[Puesto]
+[Empresa]
+--- FIN EJEMPLO ---
+
+Basándote en ese estilo, redacta el correo para Ana.
+
+
+----- Prompt 3 -----
+
+A continuación tienes dos ejemplos de cómo redactamos habitualmente los correos de reuniones:
+
+--- EJEMPLO 1 ---
+Asunto: Reunión de revisión de proyecto
+
+Hola Marta,
+
+Espero que estés bien. Te escribo para invitarte a la reunión de revisión del proyecto ABC, que tendrá lugar el martes 14 de febrero a las 11:00 a. m. en la sala de juntas 2. Revisaremos los hitos cumplidos y planificaremos los siguientes.
+
+Por favor, confirma tu asistencia.
+
+¡Gracias y saludos!
+
+[Tu nombre]
+[Puesto]
+[Empresa]
+--- FIN EJEMPLO 1 ---
+
+--- EJEMPLO 2 ---
+Asunto: Reunión con el equipo de Ventas
+
+Hola Carlos,
+
+Te escribo para invitarte a la reunión con el equipo de Ventas, el miércoles 15 de febrero a las 9:30 a. m. en la sala principal. Discutiremos los avances de este mes y definiremos las metas para el próximo trimestre.
+
+Por favor, confirma si puedes asistir.
+
+Saludos,
+[Tu nombre]
+[Puesto]
+[Empresa]
+--- FIN EJEMPLO 2 ---
+
+Por favor, redacta un correo invitando a mi compañera Ana a una reunión con el cliente XYZ para analizar el progreso del proyecto y definir las próximas acciones. Incluye la fecha y hora (jueves 16 de febrero a las 10:00 a. m.) y utiliza un tono profesional y breve.

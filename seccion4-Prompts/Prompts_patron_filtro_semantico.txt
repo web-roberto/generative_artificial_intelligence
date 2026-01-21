@@ -1,0 +1,11 @@
+----- Prompt 1 -----
+
+Compórtate como si fueses un experto en protección de datos encargado de analizar y filtrar datos sensibles del texto que te proporcionan. Realiza las siguientes tareas:
+1. Filtra el siguiente texto con información sensible para eliminar cualquier dato de identificación personal o información que pudiera utilizarse para identificar a la persona.
+2. Reemplaza cada dato sensible con etiquetas genéricas: por ejemplo, utiliza [NOMBRE] para nombres, [EMAIL] para correos, [TELÉFONO] para números de teléfono, y [CUENTA] para números de cuenta.
+
+=== COMIENZO TEXTO CON INFORMACIÓN SENSIBLE ===
+De una parte, y como arrendador, persona física, D/Dña. LORENA MARTÍN, mayor de edad, domiciliado/a en C/ Inventada, N1, y con NIF nº 89734198F Y con datos de contacto a efectos de notificaciones: correo electrónico: lorena@gmail.com, y número de teléfono: 692348763
+De otra parte, y como arrendatario, D/Dña. roberto HERNANDEZ, mayor de edad, con NIF 708345712G, con domicilio a efectos de notificaciones en la vivienda objeto de arrendamiento. Y con datos de contacto a efectos de notificaciones: correo electrónico: roberto@gmail.com, y número de teléfono: 634908765
+Ambas partes se reconocen la capacidad legalmente necesaria para el otorgamiento del presente contrato de arrendamiento.
+=== FIN TEXTO CON INFORMACIÓN SENSIBLE ===

@@ -1,0 +1,55 @@
+----- Prompt 1 -----
+
+Tu tarea es representar en pseudocódigo un programa informático que voy a describir con lenguaje natural. Para ello voy a definir las reglas y símbolos del pseudocódigo.
+
+Las palabras clave del pseudocódigo que debes utilizar se encuentran delimitadas por dobles comillas. A continuación de las plabras clave se encuentra una descripción de su significado:
+
+=== PSEUDOCODIGO ===
+1. "//": Representa un comentario en el código.
+2. "INICIO", "FIN": Indican el inicio y el final del programa.
+3. "ENTRADA", "OBTENER", "LEER": Se utilizan para la entrada de datos.
+4. "CALCULAR", "COMPUTAR": Se usan para realizar cálculos y evaluar expresiones.
+5. "SUMAR", "RESTAR", "INICIALIZAR": Sirven para sumar, restar e inicializar valores.
+6. "SALIDA", "IMPRIMIR", "MOSTRAR": Permiten mostrar información en pantalla.
+7. "SI", "SI_NO", "FIN_SI": Se utilizan para la toma de decisiones.
+8. "MIENTRAS", "FIN_MIENTRAS": Se emplean para estructuras de repetición condicional.
+9. "PARA", "FIN_PARA": Se usan para bucles con incremento o decremento automático.
+=== FIN PSEUDOCODIGO ===
+
+Por otro lado, a continuación puedes encontrar entre dobles comillas la sintaxis para las principales estructuras de control de flujo de ejecución de un programa:
+
+=== ESTRUCTURA 1 ===
+1. Estructura condicional SI-SI_NO:
+SI (condición) ENTONCES       
+    instrucción   
+    ...                    
+SI_NO       
+    instrucción   
+    ...                    
+FIN_SI
+===
+
+=== ESTRUCTURA 2 ===
+2. Bucle PARA:
+PARA (valor_inicial HASTA valor_final) HACER   
+    instrucción   
+    ...                    
+FIN_PARA
+===
+
+=== ESTRUCTURA 3 ===
+3. Bucle MIENTRAS:
+MIENTRAS (condición) HACER  
+    instrucción   
+    ...                    
+FIN_MIENTRAS   
+===
+
+Cuando termines de aprender el pseudocódigo, pregúntame por la descripción del programa que debes implementar.
+
+
+----- Prompt 2 -----
+
+Implementa un programa que solicite al usuario un número entero positivo y calcule la suma de todos los números desde 1 hasta ese número. Luego, muestra el resultado en pantalla.
+
+El programa debe validar que el usuario ingrese un número válido. Si el usuario introduce un número negativo o cero, debe mostrar un mensaje de error y volver a pedir el número hasta que sea correcto.
